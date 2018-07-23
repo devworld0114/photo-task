@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@terrylinla/react-native-sketch-canvas/android/@terrylinla_react-native-sketch-canvas.iml" filepath="$PROJECT_DIR$/../node_modules/@terrylinla/react-native-sketch-canvas/android/@terrylinla_react-native-sketch-canvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskPhoto.iml" filepath="$PROJECT_DIR$/TaskPhoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera-react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera-react-native-camera.iml" />
+      <module fileurl="file://E:\Workspace\PhotoRN\photo-task\node_modules\react-native-camera\android\react-native-camera-react-native-camera.iml" filepath="E:\Workspace\PhotoRN\photo-task\node_modules\react-native-camera\android\react-native-camera-react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fetch-blob/android/react-native-fetch-blob.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fetch-blob/android/react-native-fetch-blob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fetch-blob/android/react-native-fetch-blob-react-native-fetch-blob.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fetch-blob/android/react-native-fetch-blob-react-native-fetch-blob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@terrylinla/react-native-sketch-canvas/android/react-native-sketch-canvas-@terrylinla_react-native-sketch-canvas.iml" filepath="$PROJECT_DIR$/../node_modules/@terrylinla/react-native-sketch-canvas/android/react-native-sketch-canvas-@terrylinla_react-native-sketch-canvas.iml" />
+      <module fileurl="file://E:\Workspace\PhotoRN\photo-task\node_modules\@terrylinla\react-native-sketch-canvas\android\react-native-sketch-canvas-@terrylinla_react-native-sketch-canvas.iml" filepath="E:\Workspace\PhotoRN\photo-task\node_modules\@terrylinla\react-native-sketch-canvas\android\react-native-sketch-canvas-@terrylinla_react-native-sketch-canvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg-react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg-react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-view-shot/android/react-native-view-shot.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-view-shot/android/react-native-view-shot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-view-shot/android/react-native-view-shot-react-native-view-shot.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-view-shot/android/react-native-view-shot-react-native-view-shot.iml" />
+      <module fileurl="file://E:\Workspace\PhotoRN\photo-task\node_modules\react-native-view-shot\android\react-native-view-shot-react-native-view-shot.iml" filepath="E:\Workspace\PhotoRN\photo-task\node_modules\react-native-view-shot\android\react-native-view-shot-react-native-view-shot.iml" />
+    </modules>
+  </component>
+</project>
